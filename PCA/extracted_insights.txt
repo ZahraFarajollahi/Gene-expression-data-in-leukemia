@@ -1,0 +1,5 @@
+Extracted insights:
+In this part, we are going to discuss briefly the knowledge discovered by this analysis.
+The primary point of this analysis is two first principal components can diagnose T-cell ALL from B-cell ALL.
+We clearly can see this separation in 2D and 3D figures.
+In conclusion, linear classifiers work well with this mapping.

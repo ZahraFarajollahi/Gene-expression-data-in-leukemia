@@ -1,2 +1,2 @@
-Heatmap plot and hierarchical clustering between genes and samples
-The plot illustrates that many genes are highly correlated in leukemia
+Extracted insights from heatmap plot and hierarchical clustering between genes and samples:
+The plot illustrates that many genes are highly correlated in leukemia samples so to analyse this data we have to consider this important issue.

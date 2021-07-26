@@ -1,0 +1,2 @@
+Heatmap plot and hierarchical clustering between genes and samples
+The plot illustrates that many genes are highly correlated in leukemia

@@ -1,3 +1,5 @@
+library(ggplot2) 
+
 # read the file
 x1= read.delim("E:/denboer2009-expr.txt")
 rownames(x1)= x1[,1]

@@ -3,4 +3,4 @@ In this part, we are going to discuss briefly the knowledge discovered by this a
 We developed a gene recommendation system by ANOVA:
 Genes with the lowest p-value have a strong effect on differentiating between T-ALL and B-ALL
 Here we studied the most significant genes (lowest p-value) in gene databases (NCBI / Gene) and found out that many of them are related to leukemia.
-In the attached table you can see the short summary
+In the attached table you can see the short summary of the fist genes in list

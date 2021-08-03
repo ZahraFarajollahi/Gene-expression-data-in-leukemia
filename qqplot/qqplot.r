@@ -1,5 +1,20 @@
 library(car)
 
+# read the file
+x1= read.delim("E:/denboer2009-expr.txt")
+rownames(x1)= x1[,1]
+x3 = x1[,-1]
+x= as.data.frame(t(x3))
+
+# read the lables
+y= read.delim("E:/denboer2009-pheno (2).txt")
+rownames(y)= y[,1]
+y= y[,-1]
+
+# add lables to data as a column
+x$sample = substr(y[,5],1,190)
+
+
 #qqplot
 # create a data from a gen and lables and select only T-All 
 selectedgene = x[c("CD3D|213539_at" , "sample")]

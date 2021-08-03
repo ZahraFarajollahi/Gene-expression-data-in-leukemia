@@ -1,0 +1,7 @@
+Extracted insights:
+In this part, we are going to discuss briefly the knowledge discovered by this analysis.
+we selected a gene with the lowest p-value in the ANOVA test to ensure the reliability of our test
+and divided it into two groups based on their labels
+T-ALL labels and Other include subtypes of B-ALL
+As the attached plots show in both groups, all the points fall approximately along the reference line; therefore, we can assume the normality of data
+and then plot two groups in qqplot.

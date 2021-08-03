@@ -1,0 +1,6 @@
+Extracted insights:
+In this part, we are going to discuss briefly the knowledge discovered by this analysis.
+We have already developed a gene recommendation system by t-test, and since we are not sure about the normal distribution of data here, we use Wilcoxon signed-rank test
+to have more accurate results.
+Genes with the lowest p-value have a strong effect on differentiating between T-ALL and B-ALL.
+Then we studied the most significant genes (lowest p-value) in gene databases and found that many of them are related to leukemia.

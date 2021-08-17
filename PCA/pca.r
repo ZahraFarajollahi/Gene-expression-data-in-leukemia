@@ -11,7 +11,7 @@ y= read.delim("E:/denboer2009-pheno (2).txt")
 rownames(y)= y[,1]
 y= y[,-1]
 
-#compute principle components of gene expressions
+#compute principal components of gene expressions
 pc = prcomp(x)
 
 # plot & save most important pcs 
